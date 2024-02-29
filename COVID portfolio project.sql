@@ -1,6 +1,3 @@
---select * from PortfolioProject..['covid vaccination$']
---order by 3,4
-
 select * from PortfolioProject..['covid death data latest$']
 order by 3,4
 
